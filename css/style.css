@@ -2292,3 +2292,11 @@ pre .css ~ * .id {
   height: 100%;
   overflow: hidden;
 }
+.share_jia {
+  padding: 10px 30px;
+}
+@media screen and (max-width: 800px) {
+  .share_jia {
+    padding: 10px;
+  }
+}
